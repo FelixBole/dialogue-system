@@ -1,0 +1,30 @@
+{
+	"name": "com.slax.dialogue",
+	"version": "0.1.0",
+	"displayName": "Dialogue System",
+	"description": "",
+	"unity": "2021.1",
+	"keywords": [],
+	"author": {
+		"url": "https://github.com/FelixBole",
+		"name": "Felix Bole",
+		"email": "felix.slax@gmail.com"
+	},
+	"files": [
+		"Documentation/**",
+		"Documentation.meta",
+		"Editor/**",
+		"Editor.meta",
+		"Runtime/**",
+		"Runtime.meta",
+		"Samples/**",
+		"Samples.meta",
+		"CHANGELOG.md",
+		"CHANGELOG.md.meta",
+		"LICENSE.md",
+		"LICENSE.md.meta",
+		"README.md",
+		"README.md.meta",
+		"package.json.meta"
+	]
+}
